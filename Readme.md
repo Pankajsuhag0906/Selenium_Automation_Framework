@@ -12,4 +12,4 @@
 • Run Local and on Selenoid Integration
 
 ![img_1.png](img_1.png)
-![2.png](..%2F..%2FDesktop%2F2.png)
+C:\Users\panka\IdeaProjects\Selenium_Automation_Framework\2.png
